@@ -1,0 +1,11 @@
+p{
+color: black;
+font-family: 'calibri';
+font-size: 25px;
+}
+img{
+   height: 35ch;
+   border-color: aqua;
+   border-style: groove;
+   border-radius: 20ch;
+}
